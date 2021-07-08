@@ -1,0 +1,3 @@
+C:/Users/ibarr/CLionProjects/untitled/class 4 aniodenacimiento/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ibarr/CLionProjects/untitled/class 4 aniodenacimiento/cmake-build-debug/CMakeFiles/class_4_aniodenacimiento.dir
+C:/Users/ibarr/CLionProjects/untitled/class 4 aniodenacimiento/cmake-build-debug/CMakeFiles/rebuild_cache.dir
